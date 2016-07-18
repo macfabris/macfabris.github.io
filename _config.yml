@@ -1,15 +1,15 @@
 # Site
-title: Marcos Augusto Cabral Fabris
-description: Dev, Coffee, Music, TV Series, Book's
-url: http://macfabris.github.io
-logo: me.jpg                                       # Site logo
+title: Halve
+description: Stylish, Two-Column Jekyll Theme
+url: http://taylantatli.me/Halve
+logo: halve.png                                       # Site logo
 locale: en_US
 
 # Left Block Images
 background:
-  homepage: images/home.png                        # this image will be shown on homepage's left block
-  post-list: images/post.jpg             # this image will be shown on post list page
-  default-post: images/default-post.jpg   # this image will be shown when post's front matter doesn't specify any image
+  homepage: images/home.png                           # this image will be shown on homepage's left block
+  post-list: images/unsplash-image-10.jpg             # this image will be shown on post list page
+  default-post: images/unsplash-gallery-image-3.jpg   # this image will be shown when post's front matter doesn't specify any image
 
 # Jekyll
 permalink:          /:title/
@@ -31,10 +31,10 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
-twitter:            johannesfabris
+twitter:            username
 #facebook:           username
-github:             macfabris
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+github:             username
+stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
@@ -52,7 +52,7 @@ github:             macfabris
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-#behance:           username
+behance:           username
 
 # Gems
 gems:
