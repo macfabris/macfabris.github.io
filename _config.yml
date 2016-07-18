@@ -1,18 +1,18 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Marcos Augusto Cabral Fabris
+email: macfabris@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: One sentence introducing yourself or what you do
+description: To be good about yourself
 
 # Social icons
-facebook: username
-linkedin: username
-github: username
-deviantart: username
-codepen: username
+facebook: marcosaugusto.fabris
+# linkedin: username
+github: macfabris
+# deviantart: username
+# codepen: username
 
 footer: © Taken theme
 
