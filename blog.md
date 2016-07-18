@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Marcos Augusto Cabral Fabris
+title: Blog
 permalink: /
 ---
